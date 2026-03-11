@@ -2,7 +2,7 @@
 
 A personal portfolio website built with pure HTML, CSS, and JavaScript.
 
-🔗 **Live Site:** [https://SUKUMAR-2005.github.io/sukumar-portfolio](https://SUKUMAR-2005.github.io/sukumar-portfolio)
+🔗 **Live Site:** [https://sukumar-dev.vercel.app](https://sukumar-dev.vercel.app/)
 
 ---
 
@@ -30,16 +30,7 @@ sukumar-portfolio/
 - Google Fonts — Plus Jakarta Sans, JetBrains Mono, Fraunces
 - Formspree (contact form backend)
 
-## 📬 Setting Up the Contact Form
 
-1. Go to [formspree.io](https://formspree.io) and sign up for free
-2. Create a new form with your email `sukumarmakesh@gmail.com`
-3. Copy your unique endpoint URL (looks like `https://formspree.io/f/xxxxxxxx`)
-4. Open `index.html` and find this line:
-   ```js
-   const FORMSPREE_ENDPOINT = 'https://formspree.io/f/sukumarmakesh@gmail.com';
-   ```
-5. Replace it with your actual endpoint URL
 
 ## 🌐 Deploying to GitHub Pages
 
